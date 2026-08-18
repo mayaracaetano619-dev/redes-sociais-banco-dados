@@ -23,7 +23,7 @@ O sistema é uma rede social onde os usuários podem criar postagens e comentar 
 -   Postagem comentada
 
 ## Modelagem Conceitual 
-![](modelo_conceitual.png)
+![](modelo_conceital.png)
 ## Modelo Lógico
 ![](modelo-logico.png)
 
